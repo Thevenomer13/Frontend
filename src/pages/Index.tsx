@@ -69,7 +69,7 @@ const Index = () => {
             >
               <div className="w-56 h-56 md:w-64 md:h-64 mx-auto rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-lg bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center">
                 <img 
-                  src="public\lovable-uploads\23900270-7690-4f29-986c-09ff10d2b1c3 copy.png" 
+                  src="public\lovable-uploads\harsha.png" 
                   alt="Harsha Vardhana T"
                   className="w-full h-full object-cover"
                 />
