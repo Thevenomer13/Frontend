@@ -221,7 +221,7 @@ const Index = () => {
               
               <Card>
                 <CardHeader>
-                  <CardTitle>Vaxuuvaidya</CardTitle>
+                  <CardTitle>Vayuvaidya</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600 dark:text-gray-400">
